@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "mcp-server": {
+        "command": "/mnt/c/Users/JiaQiSun/Desktop/Research/mcp-server-demo/.venv/bin/python",
+        "args": ["/mnt/c/Users/JiaQiSun/Desktop/Research/mcp-server-demo/main.py"]
+      }
+    }
+  }
